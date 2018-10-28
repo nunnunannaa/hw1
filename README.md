@@ -1,2 +1,1 @@
-my name is hyunji
-email:hhj952@gmail.com
+my name is eunseo
