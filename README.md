@@ -1,1 +1,1 @@
-my name is hyunji
+name :hyunji
